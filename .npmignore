@@ -1,0 +1,11 @@
+src/
+.travis.yml
+.vscode
+test
+scripts/
+.prettierrc
+.eslintrc.json
+tsconfig.json
+tslint.json
+.npmignore
+*.map
