@@ -29,6 +29,9 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "@commitlint/travis-cli": "^8.2.0",
     "@types/chalk": "^2.2.0",
     "@types/jest": "^22.2.3",
     "@types/node": "^10.14.19",
